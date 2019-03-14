@@ -50,5 +50,14 @@ hr {
     }
 
     body{
-        background-color: aqua
+        background-color: darkblue
+    }
+     
+
+    p{
+        color: white
+    }
+
+    center{
+        color: yellow
     }
