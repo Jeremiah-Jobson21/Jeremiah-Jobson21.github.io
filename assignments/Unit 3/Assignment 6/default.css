@@ -1,0 +1,54 @@
+hr {
+    color: purple;
+    background-color: purple;
+    height: 20px
+    }
+    
+    h2, h3, h4, h5, h6 {
+    color: green
+    }
+    
+    h1 {
+    color: red
+    }
+    
+    ul {
+    list-style-type: square
+    }
+    
+    ul ul {
+    list-style-type: disc
+    }
+    
+    ul ul ul {
+    list-style-type: circle
+    }
+    
+    body {
+    font-family: tahoma
+    }
+    
+    a:link {
+    color: #ff3399
+    }
+    
+    a:visited {
+    color: #00ff33
+    }
+    
+    a:hover {
+    color: #330099
+    }
+    
+    a:active {
+    color: #ff3300
+    }
+    
+    ol {
+    color: greenyellow;
+    font-family: cursive
+    }
+
+    body{
+        background-color: aqua
+    }
