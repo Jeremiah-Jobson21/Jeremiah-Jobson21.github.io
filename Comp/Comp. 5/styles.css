@@ -1,0 +1,21 @@
+body{
+    color:purple;
+    background-color: black
+}
+
+td{
+    text-align: left; 
+    vertical-align: top; 
+}
+
+table{
+background-color: yellow
+}
+
+pr{
+    font-size: 15px
+}
+
+a{
+    color:blue
+}
